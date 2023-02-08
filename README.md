@@ -8,3 +8,5 @@ That's repository for literature review on master program in Innopolis Universit
 - [@klpkw](https://github.com/klpkw)
 - [@mapk58](https://github.com/mapk58)
 - [@olegogogo](https://github.com/olegogogo)
+- [@AbedTakriti](https://github.com/AbedTakriti)
+- [@AmZakirov](https://github.com/AmZakirov)
