@@ -3,6 +3,8 @@ That's repository for literature review on master program in Innopolis Universit
 
 [File with ideas](idea.md)
 [Text assemblt in .tex](/text/main.tex)
+[Articles list](/articles/article_list.md)
+[Database search index](/db/index.md)
 
 ## Contributors:
 - [@klpkw](https://github.com/klpkw)
